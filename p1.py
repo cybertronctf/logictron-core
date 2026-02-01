@@ -1,1 +1,1 @@
-print("logictron-core UPDATE2")
+print("logictron-core FIX2")
