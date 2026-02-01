@@ -1,1 +1,1 @@
-print("logictron-core REINSERT")
+print("logictron-core UPDATE2")
