@@ -1,1 +1,1 @@
-print("logictron-core INSERT")
+print("logictron-core UPDATE")
